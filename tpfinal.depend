@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1620454098 source:c:\users\manus\dev\tpfinal\funciones.c
+	"cabeceras.h"
+
+1620451890 c:\users\manus\dev\tpfinal\cabeceras.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<float.h>
+	"crc_16.h"
+
+1618760194 c:\users\manus\dev\tpfinal\crc_16.h
+	<stdint.h>
+
+1620452344 source:c:\users\manus\dev\tpfinal\main.c
+	"cabeceras.h"
+
