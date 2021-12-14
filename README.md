@@ -1,6 +1,6 @@
 # Trabajo Práctico Final de Programación Estructurada (2021): Documentación de las Funciones utilizadas en la resolución del problema
 ***
-Nota: Al final de esta documentación se encuentran las estructuras de datos que modelan los paquetes y los resultados obtenidos de la ejecución del programa.
+Nota: Al final de esta documentación se encuentran las estructuras de datos que modelan los paquetes y los resultados obtenidos de la ejecución del programa. **Importante**: Para que funcione correctamente, el programa debe ser compilado en 32 bits.
 ***
 
 El Programa realiza varias tareas para satisfacer las necesidades del problema, y dichas tareas fueron separadas en las siguientes secciones: **prompt**, **archivos**, **memoria** y **paquetes**.
